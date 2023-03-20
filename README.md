@@ -10,4 +10,9 @@ Tisdag: Vi gjorde klart moodboarden och skapade ett färgschema.
 
 ## Vecka 11
 Måndag: Vi gjorde olika varianter av wireframes på papper och började med att skapa de i wireframe.cc.  
+
 Tisdag: Vi har valt font style, vi har bestämt ett namn för websidan och börjat skissa på loggan. Vi började också på vår style guide. 
+
+## Vecka 12
+
+Måndag: Vi fortsatte på vår style guide.
