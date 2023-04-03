@@ -20,3 +20,6 @@ Måndag: Vi fortsatte på vår style guide.
 Måndag: Vi jobbade på styleguiden.
 
 Tisdag: Jag började skapa loggan i Inkscape.
+
+## Vecka 14
+Måndag: Jag fortsatte jobba på loggan.
