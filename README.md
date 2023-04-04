@@ -23,3 +23,5 @@ Tisdag: Jag började skapa loggan i Inkscape.
 
 ## Vecka 14
 Måndag: Jag fortsatte jobba på loggan.
+
+Tisdag: Jag fortsatte jobba på loggan.
